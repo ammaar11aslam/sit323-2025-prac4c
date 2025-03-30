@@ -56,19 +56,11 @@ Base URL: `http://localhost:3000`
 
 Great for quick tests using only `GET` endpoints. Paste the URL with parameters directly into the address bar.
 
-### 2. **Postman or Insomnia**
-
-Use these tools for a smoother experience:
-
-- Visual interface for sending requests
-- Save common test cases
-- See formatted JSON responses
-
-### 3. **Frontend Integration**
+### 2. **Frontend Integration**
 
 You can build a simple HTML+JS frontend to call these endpoints using `fetch` or `axios`.
 
-### 4. **Shell / CLI with curl**
+### 3. **Shell / CLI with curl**
 
 Example:
 
